@@ -1,6 +1,6 @@
 # Registration Page 
 
-<p> Esse é um projeto foi desenvolvido para participação do teste para estágio passado pela <strong> ABLPrime** </strong>. </p>
+<p> Esse é um projeto foi desenvolvido para participação do teste para estágio passado pela <strong> ABLPrime </strong>. </p>
 
 <h5 align="center">
 :tada: Projeto Registration Page finalizado :tada:
